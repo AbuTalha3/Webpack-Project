@@ -1,8 +1,6 @@
 # Webpack-Project
 developing a Webpack-Project from documentation
 
-A concise and clear description of your project.
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -22,7 +20,7 @@ A concise and clear description of your project.
 
 ## Overview
 
-Provide a brief overview of your project, explaining its purpose, key features, and benefits.
+Webpack-Project, explaining its purpose, key features, and benefits.
 
 ## Features
 
