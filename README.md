@@ -26,7 +26,7 @@ Webpack-Project, explaining its purpose, key features, and benefits.
 
 List the main features and functionalities of your project. Use bullet points for clarity.
 
-- Feature 1
+- Feature 1 Webpack Template
 - Feature 2
 - ...
 
