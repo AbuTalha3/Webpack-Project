@@ -1,5 +1,5 @@
 # Webpack-Project
-developing a Webpack-Project from documentation
+developing a **Webpack-Project** from documentation
 
 ## Table of Contents
 
