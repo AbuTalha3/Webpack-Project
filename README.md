@@ -1,6 +1,5 @@
 # Webpack-Project
-developing a webpack project from documentation
-# Project Name
+developing a Webpack-Project from documentation
 
 A concise and clear description of your project.
 
