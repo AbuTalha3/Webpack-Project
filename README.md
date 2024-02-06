@@ -44,8 +44,8 @@ Explain the steps to set up and run your project locally.
 ### Installation
 
 ```bash
-# Clone the repository
-git clone git@github.com:AbuTalha3/Webpack-Project.git
+# `Clone the repository`
+`git clone git@github.com:AbuTalha3/Webpack-Project.git`
 # Navigate to the project directory
 cd your-project
 
